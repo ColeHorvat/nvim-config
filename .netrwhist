@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/colehorvat/acnh-study-gatsby/src/components'
+let g:netrw_dirhist_5='/home/colehorvat/acnh-study-gatsby/src'
+let g:netrw_dirhist_4='/home/colehorvat/acnh-study-gatsby'
+let g:netrw_dirhist_3='/home/colehorvat/unigrams-website/unigrams/scripts'
+let g:netrw_dirhist_2='/home/colehorvat/unigrams-website/unigrams'
+let g:netrw_dirhist_1='/home/colehorvat/unigrams-website'
